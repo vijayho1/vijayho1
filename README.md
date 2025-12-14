@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi 👋 I'm Vijay
 
-<!--
-**vijayho1/vijayho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year CS student, CS50x alum, interested in backend and full-stack web development.  
+Currently building an end-to-end student portal focused on improving access to academic resources.
 
-Here are some ideas to get you started:
+### 🚀 Current Focus
+- Backend development with Django and MongoDB
+- Building *Unofficial Notes*, a student-focused web platform
+- Getting started with open-source contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Languages: C, C++, Python, JavaScript
+- Web: HTML, CSS, Django
+- Databases: MongoDB
+- Tools: Git, GitHub
+
+### 📌 Featured Project
+🔹 **Unofficial Notes**  
+A student-focused web portal for organized notes and resources, designed to be extended with features like discussion forums and administrative tools.
+
+### 🌱 Open Source
+Interested in contributing to education and web-focused open-source projects.
