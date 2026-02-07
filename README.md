@@ -15,8 +15,7 @@ Currently building an end-to-end student portal focused on improving access to a
 - Tools: Git, GitHub
 
 ### 📌 Featured Project
-🔹 **Unofficial Notes**  
-A student-focused web portal for organized notes and resources, designed to be extended with features like discussion forums and administrative tools.
+🔹 **MedHelp**  
 
 ### 🌱 Open Source
 Interested in contributing to education and web-focused open-source projects.
