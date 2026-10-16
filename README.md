@@ -1,21 +1,19 @@
-## Hi 👋 I'm Vijay
+# Hi 👋 I'm Vijay Hiremath
 
-First-year CS student, CS50x alum, interested in backend and full-stack web development.  
-Currently building an end-to-end student portal focused on improving access to academic resources.
+CS undergraduate at KLE Tech, passionate about building practical software, exploring backend engineering, and contributing to open source.
+
+I enjoy turning real-world problems into working software — from full-stack platforms and workflow automation to exploring AI-assisted development and developer tools.
 
 ### 🚀 Current Focus
-- Backend development with Django and MongoDB
-- Building *Unofficial Notes*, a student-focused web platform
-- Getting started with open-source contributions
-
-### 🛠 Tech Stack
-- Languages: C, C++, Python, JavaScript
-- Web: HTML, CSS, Django
-- Databases: MongoDB
-- Tools: Git, GitHub
-
-### 📌 Featured Project
-🔹 **MedHelp**  
+- Building **TutorFlow**, a management platform for home-tuition operations, class tracking, and academic workflows
+- Exploring backend engineering, databases, APIs, and full-stack development
+- Contributing to open-source projects, including **Zulip**
+- Building practical projects and learning by shipping, debugging, and improving real software
 
 ### 🌱 Open Source
-Interested in contributing to education and web-focused open-source projects.
+Contributing to open-source software, learning from established codebases, and collaborating with developer communities.
+
+### 🎯 What I'm Working Toward
+Becoming a stronger software engineer by building useful products, improving my problem-solving skills, and contributing to projects that make a real impact.
+
+📌 Check out my repositories to see what I'm building.
